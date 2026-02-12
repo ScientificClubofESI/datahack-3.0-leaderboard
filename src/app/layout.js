@@ -5,9 +5,7 @@ export const metadata = {
   title: 'DATAHACK 3.0',
   description: 'Join us for an exciting data-focused hackathon',
   icons: {
-    icon: '/images/logo.png',
-    shortcut: '/images/logo.png',
-    apple: '/images/logo.png',
+    icon: '/images/datahack_logo.png',
   },
 }
 
