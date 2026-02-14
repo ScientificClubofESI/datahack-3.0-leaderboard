@@ -55,7 +55,7 @@ const challenges = [
     {
     id: 7,
     number: '07',
-    title: 'Well Log Reconstruction Challenge',
+    title: 'Gradient Ghostes Challenge',
     weight: '2',
     description: 'Investigate the catastrophic failure of ORACLE, the flagship trading model at Meridian Capital, and decrypt a 48-byte file left behind by its missing creator. Participants must analyze market data, uncover hidden model blind spots, and extract three failure-based keys',
     kaggleLink: 'https://www.kaggle.com/t/f4e283eb33d249c79b01d545bbe79b0a',
