@@ -44,7 +44,7 @@ const challenges = [
     description: 'Create a model to classify patterns on the seafloor from underwater data. Participants explore unmapped areas to detect geological and biological structures, revealing insights about Earth’s underwater landscapes.',
     kaggleLink: 'https://www.kaggle.com/t/a13dd82e0e084d8091b868ebb6e0c461',
   },
-      {
+  {
     id: 6,
     number: '06',
     title: 'Well Log Reconstruction Challenge',
@@ -52,6 +52,14 @@ const challenges = [
     description: 'Develop a model to predict missing well log measurements from real LAS files. Participants handle multi-target regression, noisy and incomplete data, and replicate workflows used in petroleum reservoir characterization.',
     kaggleLink: 'https://www.kaggle.com/t/7ad72943be3a483e9ca98ec3c38b5743',
   },
+    {
+    id: 7,
+    number: '07',
+    title: 'Well Log Reconstruction Challenge',
+    weight: '2',
+    description: 'Investigate the catastrophic failure of ORACLE, the flagship trading model at Meridian Capital, and decrypt a 48-byte file left behind by its missing creator. Participants must analyze market data, uncover hidden model blind spots, and extract three failure-based keys',
+    kaggleLink: 'https://www.kaggle.com/t/f4e283eb33d249c79b01d545bbe79b0a',
+  }
 ]
 
 export default function ChallengesPage() {
